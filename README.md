@@ -21,13 +21,12 @@ O objetivo deste projeto é demonstrar como o Power BI pode ser utilizado para *
 ---
 
 ## 📸 Visualização do Dashboard
-![Dashboard de Vendas](images/Dashboard Gestão de Vendas.png)
+![Dashboard de Vendas](https://raw.githubusercontent.com/AnaPaulaferli/powerbi-sales-dashboard/98e854ffd996bef6552565e681f9ab7c263a0ad6/images/Dashboard%20Gest%C3%A3o%20de%20Vendas.png)
 ---
 
 ## 🌐 Versão Interativa
 Acesse o relatório publicado no Power BI Service:  
-👉 [Clique aqui para visualizar](https://app.powerbi.com/view?r=SEU_LINK_PUBLICO)  
-
+👉 [Clique aqui para visualizar](https://go.microsoft.com/fwlink/?LinkID=722383&clcid=0x409)
   
 ---
 
