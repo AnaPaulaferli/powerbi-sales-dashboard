@@ -21,8 +21,7 @@ O objetivo deste projeto é demonstrar como o Power BI pode ser utilizado para *
 ---
 
 ## 📸 Visualização do Dashboard
-![Dashboard de Vendas](images/dashboard.png)
-
+![Dashboard de Vendas](images/Dashboard Gestão de Vendas.png)
 ---
 
 ## 🌐 Versão Interativa
