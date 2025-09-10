@@ -26,8 +26,7 @@ O objetivo deste projeto é demonstrar como o Power BI pode ser utilizado para *
 
 ## 🌐 Versão Interativa
 Acesse o relatório publicado no Power BI Service:  
-👉 [Clique aqui para visualizar](https://go.microsoft.com/fwlink/?LinkID=722383&clcid=0x409)
-  
+👉 [Clique aqui para visualizar](https://app.powerbi.com/groups/me/reports/48d9b0b8-b78b-4c01-a5c9-3f6eefd17d29/325d9b8d95a3a41980e5?experience=power-bi)
 ---
 
 ## 📂 Estrutura do Repositório
